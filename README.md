@@ -15,7 +15,7 @@
     - [04_综合应用-图形几何](https://nbviewer.jupyter.org/github/codeplay42/Learn_Python/blob/master/04_%E7%BB%BC%E5%90%88%E5%BA%94%E7%94%A8-%E5%9B%BE%E5%BD%A2%E5%87%A0%E4%BD%95.ipynb)
     - [05_哆啦 A 梦的魔法口袋](https://nbviewer.jupyter.org/github/codeplay42/Learn_Python/blob/master/05_%E5%93%86%E5%95%A6%20A%20%E6%A2%A6%E7%9A%84%E9%AD%94%E6%B3%95%E5%8F%A3%E8%A2%8B.ipynb)
     - [06_少即是多](https://nbviewer.jupyter.org/github/codeplay42/Learn_Python/blob/master/06_%E5%B0%91%E5%8D%B3%E6%98%AF%E5%A4%9A.ipynb)
-    - [07_调试%20Debug](https://nbviewer.jupyter.org/github/codeplay42/Learn_Python/blob/master/07_%E8%B0%83%E8%AF%95%20Debug.ipynb)
+    - [07_调试 Debug](https://nbviewer.jupyter.org/github/codeplay42/Learn_Python/blob/master/07_%E8%B0%83%E8%AF%95%20Debug.ipynb)
     - [08_用模块组装世界](https://nbviewer.jupyter.org/github/codeplay42/Learn_Python/blob/master/08_%E7%94%A8%E6%A8%A1%E5%9D%97%E7%BB%84%E8%A3%85%E4%B8%96%E7%95%8C.ipynb)
     - [09_你有没有对象？](https://nbviewer.jupyter.org/github/codeplay42/Learn_Python/blob/master/09_%E4%BD%A0%E6%9C%89%E6%B2%A1%E6%9C%89%E5%AF%B9%E8%B1%A1%EF%BC%9F.ipynb)
     - [10_综合应用-海龟画图](https://nbviewer.jupyter.org/github/codeplay42/Learn_Python/blob/master/10_%E7%BB%BC%E5%90%88%E5%BA%94%E7%94%A8-%E6%B5%B7%E9%BE%9F%E7%94%BB%E5%9B%BE.ipynb)
